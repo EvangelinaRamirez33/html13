@@ -8,5 +8,9 @@ body {
 h1 {
 	color: tomato;
 	align-content: center;
+	
 }
 
+body {
+	list-style-position: inherit
+}
