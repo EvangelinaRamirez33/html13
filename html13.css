@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
+.myDiv{
+	text-align: center;
+}
 
 body {
 	background-color: azure;
@@ -12,5 +15,5 @@ h1 {
 }
 
 body {
-	list-style-position: inherit
+	
 }
