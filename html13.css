@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: azure;
+}
+
+h1 {
+	color: tomato;
+	margin-left: 20px;
+}
