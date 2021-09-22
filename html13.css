@@ -21,7 +21,7 @@ header{
 }
 
 header h1{
-	font-size: 55px;
+	font-size: 85px;
 	font-family: battery-park, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -29,5 +29,31 @@ header h1{
 	color: rgba(237,107,6,1.00)
 }
 nav{
+	width: 100%;
+	text-align: center;
 	
 }
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	display: inline;
+}
+
+footer{
+	text-align: center;
+	clear: both;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	
+}
+
+nav a:link{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: rgba(154,58,3,1.00);
+	text-decoration: none;
+	margin-right: 20px;
+}
+
